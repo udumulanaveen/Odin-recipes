@@ -8,6 +8,11 @@ h1{
     text-align: center;
     font-size: 50px
 }
+ul{
+    display: flex;
+    text-align: center;
+    font-size: 24px;
+}
 
 ul li {
     list-style: none;
@@ -15,6 +20,10 @@ ul li {
     text-decoration:none ;
     display: inline;
     
+}
+ul img{
+    width: 100%;
+    height: auto;
 }
 ul a {
     text-decoration: none;
