@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading{
+    text-align: center;
+    font-size: 24px;
+}
+.Ingredients_list{
+    margin: auto;
+    width: 20%;
+    line-height: 0.8cm;
+}
+.sweet_image{
+    margin: auto;
+    width: 30%;
+}
+.sweet_image img{
+    border-radius: 20px;
+}
+.sweet_ingredients em{
+    line-height: 1cm;
+    font-size: 20px;
+
+}
+.steps{
+    line-height: 1cm;
+}

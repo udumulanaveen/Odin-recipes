@@ -1,6 +1,22 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: yellowgreen;
+    color: white;
+}
+.Requried_ingreients{
+    display: flex;
+    justify-content: space-around;
+}
 .biryani_image{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+ }
+ dt{
+    font-weight: 600;
+ }
+ .Steps_To_Biryani, .Requried_ingreients{
+    font-size: 20px;
+
  }
